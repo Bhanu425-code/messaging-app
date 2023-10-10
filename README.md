@@ -1,0 +1,1 @@
+This comprehensive Realtime Chat Application offers a wide range of features, including user registration and authentication, one-on-one and group chat functionality, support for emojis and reactions, message editing and deletion capabilities.It is built with the help of GetStream.io
